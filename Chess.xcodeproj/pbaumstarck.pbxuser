@@ -1,0 +1,262 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ChessAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 440}}";
+			sepNavSelRange = "{367, 0}";
+			sepNavVisRange = "{0, 469}";
+			sepNavWindowFrame = "{{15, 0}, {750, 778}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ChessAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1144}}";
+			sepNavSelRange = "{218, 0}";
+			sepNavVisRange = "{0, 765}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Chess */ = {
+		activeExec = 0;
+		executables = (
+			7CCC274B1491DC1D001F73CC /* Chess */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ChessViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 1703}}";
+			sepNavSelRange = "{3229, 0}";
+			sepNavVisRange = "{2347, 1416}";
+			sepNavWindowFrame = "{{15, 0}, {750, 778}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ChessViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 14495}}";
+			sepNavSelRange = "{10011, 0}";
+			sepNavVisRange = "{9912, 1005}";
+			sepNavWindowFrame = "{{15, 0}, {750, 778}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7CCC274B1491DC1D001F73CC /* Chess */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Chess */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Chess */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 7CCC27601491DC26001F73CC /* Code sense */;
+		executables = (
+			7CCC274B1491DC1D001F73CC /* Chess */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					782,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 346084720;
+			PBXWorkspaceStateSaveDate = 346084720;
+		};
+		perUserProjectItems = {
+			7C34BC4614A0D62500DBB7A8 /* PBXTextBookmark */ = 7C34BC4614A0D62500DBB7A8 /* PBXTextBookmark */;
+			7CAAE03114A0D33B000E28F0 /* PBXTextBookmark */ = 7CAAE03114A0D33B000E28F0 /* PBXTextBookmark */;
+			7CC46F6E149E48C500AE94A5 /* PBXTextBookmark */ = 7CC46F6E149E48C500AE94A5 /* PBXTextBookmark */;
+			7CCC277C1491DD59001F73CC /* PlistBookmark */ = 7CCC277C1491DD59001F73CC /* PlistBookmark */;
+			7CCC2BFA149226BF001F73CC /* PBXTextBookmark */ = 7CCC2BFA149226BF001F73CC /* PBXTextBookmark */;
+			7CD238D5149E433400C1F470 /* PBXTextBookmark */ = 7CD238D5149E433400C1F470 /* PBXTextBookmark */;
+			7CD238D6149E433400C1F470 /* PBXTextBookmark */ = 7CD238D6149E433400C1F470 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 7CCC275F1491DC26001F73CC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7C34BC4614A0D62500DBB7A8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ChessViewController.m */;
+		name = "ChessViewController.m: 243";
+		rLen = 0;
+		rLoc = 10011;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 9912;
+	};
+	7CAAE03114A0D33B000E28F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ChessViewController.m */;
+		name = "ChessViewController.m: 243";
+		rLen = 0;
+		rLoc = 10011;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 9912;
+	};
+	7CC46F6E149E48C500AE94A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ChessViewController.h */;
+		name = "ChessViewController.h: 117";
+		rLen = 0;
+		rLoc = 3229;
+		rType = 0;
+		vrLen = 1416;
+		vrLoc = 2347;
+	};
+	7CCC274B1491DC1D001F73CC /* Chess */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Chess;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fs = 1;
+			$gs = 1;
+			$mxcsr = 1;
+			$ss = 1;
+		};
+	};
+	7CCC275F1491DC26001F73CC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7CCC27601491DC26001F73CC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7CCC277C1491DD59001F73CC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Chess-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/pbaumstarck/Documents/code/Chess/Chess-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	7CCC2BFA149226BF001F73CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7CCC2BFB149226BF001F73CC /* HelloUniverseController.m */;
+		name = "HelloUniverseController.m: 201";
+		rLen = 19;
+		rLoc = 6447;
+		rType = 0;
+		vrLen = 859;
+		vrLoc = 5858;
+	};
+	7CCC2BFB149226BF001F73CC /* HelloUniverseController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = HelloUniverseController.m;
+		path = /Users/pbaumstarck/Documents/code/Hola/HelloUniverseController.m;
+		sourceTree = "<absolute>";
+	};
+	7CD238D5149E433400C1F470 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ChessAppDelegate.h */;
+		name = "ChessAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 367;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 0;
+	};
+	7CD238D6149E433400C1F470 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ChessAppDelegate.m */;
+		name = "ChessAppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 218;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* Chess-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 0}, {750, 778}}";
+		};
+	};
+}
